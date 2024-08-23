@@ -1,0 +1,8 @@
+# ninja log v5
+1	14969	1717255482237201933	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool/src/bev_pooling.o	e168deedf38cacca
+0	16106	1717255483377216274	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool/src/bev_max_pool.o	39e8dbddf27552a4
+2	16391	1717255483657219797	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool/src/bev_sum_pool.o	e857979723dbdfd7
+1	50435	1717255517689648367	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool/src/bev_max_pool_cuda.o	9ace5bd5cad49165
+2	52295	1717255519561671964	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool/src/bev_sum_pool_cuda.o	adffe4540990609e
+6	716	1717255521217692840	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool_v2/src/bev_pool_cuda.o	f4f64f9ceffbeb05
+5	14038	1717255534533860767	/home/server/domain/OCC_DOMAIN_REF_OLD/projects/build/temp.linux-x86_64-cpython-38/mmdet3d_plugin/ops/bev_pool_v2/src/bev_pool.o	a954284d7d87e566

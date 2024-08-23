@@ -1,0 +1,8 @@
+# ninja log v5
+0	11476	1715926156631634397	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool/src/bev_pooling.o	5c09730de9d860d8
+0	12180	1715926157335641468	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool/src/bev_sum_pool.o	dc9d926f05ba005d
+1	12211	1715926157367641789	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool/src/bev_max_pool.o	1162002a4e5f8adf
+2	39706	1715926184847919064	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool/src/bev_max_pool_cuda.o	698bd846cee6f2ce
+0	42080	1715926187219943106	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool/src/bev_sum_pool_cuda.o	e3b50cb1765cf670
+7	655	1715926188595957061	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool_v2/src/bev_pool_cuda.o	54f1ffccc6cd0b64
+6	10803	1715926198740060111	/home/server/domain/ref_project/FlashOCC/projects/build/temp.linux-x86_64-3.8/mmdet3d_plugin/ops/bev_pool_v2/src/bev_pool.o	344f6664706ca910
